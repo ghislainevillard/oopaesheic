@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://equieyeiye.lizzieturner.com/sitemap.xml
